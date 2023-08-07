@@ -8,7 +8,7 @@ Open the Developer Tools using `Ctrl+Shift+I`, go to the 'Console' tab and paste
 
 
 ``` javascript
-$$('.x9f619.xjbqb8w.x1rg5ohu.x168nmei.x13lgxp2.x5pf9jr.xo71vjh.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.x1q0g3np.xqjyukv.x6s0dn4.x1oa3qoh.x1nhvcw1')
+$$('._aacl._aaco._aacw._aacx._aad7._aade')
 .map(div => div.innerText)
 .sort()
 .join('\n')
@@ -23,7 +23,7 @@ In your Instagram profile, open the following list by clicking in 'X Following' 
 
 Again, paste the following code in the 'Console' tab:
 ``` javascript
-$$('.x9f619.xjbqb8w.x1rg5ohu.x168nmei.x13lgxp2.x5pf9jr.xo71vjh.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.x1q0g3np.xqjyukv.x6s0dn4.x1oa3qoh.x1nhvcw1')
+$$('._aacl._aaco._aacw._aacx._aad7._aade')
 .map(div => div.innerText)
 .sort()
 .join('\n')
